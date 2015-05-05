@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Документация NextGIS Web documentation build configuration file, created by
+# Документация NextGIS Manager documentation build configuration file, created by
 # sphinx-quickstart on Tue Mar 31 13:33:57 2015.
 #
 # This file is execfile()d with the current directory set to its
