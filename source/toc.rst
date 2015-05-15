@@ -10,4 +10,5 @@ Cодержание:
    :maxdepth: 2
 
    intro
+   formats
    user_tasks
