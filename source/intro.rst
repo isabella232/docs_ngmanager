@@ -57,7 +57,7 @@
 .. figure:: _static/ngm_gui_mainscreen.png
    :name: ngm_gui_mainscren
    :align: center
-   :scale: 55%
+   :width: 18cm
 
    Основное окно программы
 
