@@ -10,5 +10,6 @@ Cодержание:
    :maxdepth: 2
 
    intro
+   install
    formats
    user_tasks
