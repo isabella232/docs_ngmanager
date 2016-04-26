@@ -53,9 +53,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Документация NextGIS Manager'
+project = u'NextGIS Manager'
 copyright = u'2015-2016, NextGIS'
-author = u'Артём Светлов'
+author = u'Команда NextGIS'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -243,7 +243,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   (master_doc, 'NextGISManager.tex', u'Документация NextGIS Manager',
-   u'Артём Светлов', 'manual', 'true'),
+   author, 'manual', 'true'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
