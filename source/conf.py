@@ -53,7 +53,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'NextGIS Manager documentation'
+project = u'NextGIS Manager'
 copyright = u'2015-2016, NextGIS'
 author = u'NextGIS team'
 
@@ -112,9 +112,9 @@ todo_include_todos = True
 
 numfig = True
 
-numfig_format = {'figure': u'Рис. %s', 'table': u'Таблица %s', 'code-block': u'Listing %s'}
+numfig_format = {'figure': u'Fig. %s', 'table': u'Table %s', 'code-block': u'Listing %s'}
 
-illufig_format = {'illustrate': u'Рис. %s (%s)'}
+illufig_format = {'illustrate': u'Pic. %s (%s)'}
 
 locale_dirs = ['locale/']
 gettext_compact = False
