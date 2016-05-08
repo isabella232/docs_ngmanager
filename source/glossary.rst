@@ -1,6 +1,6 @@
 .. sectionauthor:: Дмитрий Барышников <dmitry.baryshnikov@nextgis.ru>
 
-.. _ngman_glossary:
+.. _ngm_glossary:
 
 Глоссарий
 =========
