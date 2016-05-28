@@ -1,6 +1,6 @@
 .. sectionauthor:: Артём Светлов <artem.svetlov@nextgis.ru>
 
-.. _ng_manager_intro:
+.. _ngman_intro:
 
 Введение
 ========
