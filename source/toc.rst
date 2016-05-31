@@ -1,8 +1,8 @@
 .. sectionauthor:: Артём Светлов <artem.svetlov@nextgis.ru>
 .. NextGIS Manager TOC
 
-Документация NextGIS Manager
-============================
+NextGIS Manager documentation
+==============================
 
 Cодержание:
 
