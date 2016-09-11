@@ -1,5 +1,4 @@
 # User documentation for NextGIS Manager
-========================================
 
 Read online:
 * English - in process
