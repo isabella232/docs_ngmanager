@@ -126,7 +126,7 @@
 как с файлами геоданных. 
 
 .. image:: _static/postgis_screen.png
-   :width: 18cm
+   :width: 16cm
 
 
 Создание схем БД
