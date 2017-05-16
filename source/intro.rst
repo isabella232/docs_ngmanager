@@ -44,7 +44,15 @@
 * Прямое чтение ZIP-архивов.
 * Подключение к пространственным базам данных (например, Postgres с модулем 
   :term:`PostGIS`), выполнение операций над данными.  
-* Подключение к :ref:`NextGIS Web <ngw_intro>`. 
+
+.. only:: html
+
+   * Подключение к NextGIS Web :ref: <ngw_intro>`. 
+
+.. only:: latex
+
+   * Подключение к `NextGIS Web <http://docs.nextgis.ru/docs_ngweb/source/intro.html#ngw-intro>`_.
+
 * Операции геообработки и конвертации геоданных между различными форматами.
 
 :program:`NextGIS Manager` обеспечивает поддержку следующих операций в базе 
