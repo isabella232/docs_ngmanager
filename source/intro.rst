@@ -47,7 +47,7 @@
 
 .. only:: html
 
-   * Подключение к NextGIS Web :ref: <ngw_intro>`. 
+   * Подключение к NextGIS Web :ref:`<ngw_intro>`. 
 
 .. only:: latex
 
@@ -88,13 +88,13 @@
 Пользовательский интерфейс
 --------------------------
 
-Основное окно программы (см. :numref:`ngm_gui_mainscren`) представляет собой 
+Основное окно программы (см. :numref:`ngm_gui_mainscreen`) представляет собой 
 аналог ГИС приложений **ESRI ArcCatalog** или **QGIS catalog** и построено по 
 принципу проводника в Windows или файлового менеджера Nautilus в Ubuntu.
 
 
 .. figure:: _static/ngm_gui_mainscreen.png
-   :name: ngm_gui_mainscren
+   :name: ngm_gui_mainscreen
    :align: center
    :width: 16cm
 
