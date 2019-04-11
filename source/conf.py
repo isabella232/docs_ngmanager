@@ -33,7 +33,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.doctest',
     'sphinx.ext.todo',
-    'sphinx.ext.pngmath',
+    'sphinx.ext.imgmath',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
 ]
@@ -54,7 +54,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'NextGIS Manager'
-copyright = u'2015-2017, NextGIS'
+copyright = u'2015-2019, NextGIS'
 author = u'Команда NextGIS'
 
 # The version info for the project you're documenting, acts as replacement for
